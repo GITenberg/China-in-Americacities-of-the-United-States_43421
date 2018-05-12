@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42198'
     url: http://www.gutenberg.org/2009/agents/42198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43421#China-in-Americacities-of-the-United-States
 gutenberg_issued: '2013-08-08'
 gutenberg_type: Text
 identifiers:
